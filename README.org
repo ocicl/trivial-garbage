@@ -6,6 +6,6 @@ Common Lisp programming language.
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/trivial-garbage/trivial-garbage.git |
-| commit  | b3af9c0                                                    |
+| commit  | bd0e9d7                                                    |
 | systems | trivial-garbage                                            |
 |---------+------------------------------------------------------------|
